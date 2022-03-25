@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="INTERCONNECTICA" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A Project by Iran Sanadzadeh & Sebastian Collen <code></code>
         </p>
       </main>
 
